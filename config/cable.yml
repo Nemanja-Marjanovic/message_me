@@ -7,4 +7,3 @@ test:
 production:
   adapter: redis
   url: redis://redistogo:f30ceb4c8b0389c94bb96cbaaac49ff1@soapfish.redistogo.com:10610/
-  channel_prefix: message_me_production
